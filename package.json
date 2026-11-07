@@ -1,0 +1,12 @@
+{
+  "name": "sshooplg",
+  "version": "0.1.0",
+  "private": true,
+  "description": "sshooplg - Algerian e-commerce store (Arabic RTL, DZD)",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  }
+}
